@@ -2,4 +2,8 @@ payload:
   # Hotstar
   - IP-CIDR,192.168.1.1/24
   - IP-CIDR,0.0.0.0/24
+  - DST-PORT,8080
+  - DST-PORT,8482
+  - DST-PORT,8728
+  - DST-PORT,8729
 
