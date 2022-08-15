@@ -28,7 +28,6 @@ payload:
   - DST-PORT,8482
   - DST-PORT,8728
   - DST-PORT,8729
-  
   # Facebook
   - DOMAIN-SUFFIX,messenger.com
   - DOMAIN-SUFFIX,facebook.com
