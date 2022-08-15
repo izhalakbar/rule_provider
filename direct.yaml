@@ -1,5 +1,6 @@
 payload:
   # Hotstar
+  - DOMAIN-SUFFIX,laksa19.github.io
   - IP-CIDR,192.168.1.1/24
   - IP-CIDR,172.67.69.154/24
   - IP-CIDR,104.26.12.36/24
