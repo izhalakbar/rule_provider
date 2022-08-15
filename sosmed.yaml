@@ -21,15 +21,6 @@ payload:
   - DST-PORT,45395
   - DST-PORT,50318
   - DST-PORT,59234
-  # Winbox
-  - DOMAIN-SUFFIX,laksa19.github.io
-  - DOMAIN-SUFFIX,0.0.0.0
-  - IP-CIDR,0.0.0.0
-  - DST-PORT,80
-  - DST-PORT,8080
-  - DST-PORT,8482
-  - DST-PORT,8728
-  - DST-PORT,8729
   # Facebook
   - DOMAIN-SUFFIX,messenger.com
   - DOMAIN-SUFFIX,facebook.com
