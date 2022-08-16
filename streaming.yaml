@@ -200,6 +200,8 @@ payload:
   # Porn
   - DOMAIN-KEYWORD,pornhub.com
   - DOMAIN-KEYWORD,tikporn.tube
+  - DOMAIN-KEYWORD,api.tik.porn
+  - DOMAIN-KEYWORD,ahsmall.tik.porn
   # HBO GO HKG
   - DOMAIN-SUFFIX,hbogoasia.com
   - DOMAIN-SUFFIX,hbogoasia.hk
