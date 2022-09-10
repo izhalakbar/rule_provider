@@ -1,12 +1,15 @@
 payload:
   # Hotstart
-  - IP-CIDR,192.168.1.1/24
+  - DOMAIN-SUFFIX,xl.co.id
+  - DOMAIN-SUFFIX,my.xl.co.id
+  - DOMAIN-SUFFIX,prioritas.xl.co.id
   # Whatsapp
-  - IP-CIDR,31.13.64.0/18
-  - IP-CIDR,185.60.216.0/24
-  - IP-CIDR,157.240.0.0/16
-  - IP-CIDR,157.240.229.0/24
-  - IP-CIDR,157.240.21.0/24
+  - DOMAIN-SUFFIX,m.me
+  - DOMAIN-SUFFIX,oculus.com
+  - DOMAIN-SUFFIX,oculuscdn.com
+  - DOMAIN-SUFFIX,rocksdb.org
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
   - DST-PORT,3478
   - DST-PORT,4244
   - DST-PORT,5222
