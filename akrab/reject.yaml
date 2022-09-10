@@ -267,7 +267,7 @@ payload:
   - DOMAIN-SUFFIX,aimei133.com
   - DOMAIN-SUFFIX,airav.cc
   - DOMAIN-SUFFIX,animezilla.com
-  - DOMAIN-SUFFIX,asianpornmovies.com
+  #- DOMAIN-SUFFIX,asianpornmovies.com
   - DOMAIN-SUFFIX,av01.tv
   - DOMAIN-SUFFIX,av1688.cc
   - DOMAIN-SUFFIX,av6k.com
@@ -282,7 +282,7 @@ payload:
   - DOMAIN-SUFFIX,avsee01.tv
   - DOMAIN-SUFFIX,avseesee.com
   - DOMAIN-SUFFIX,aznude.com
-  - DOMAIN-SUFFIX,bangbros.com
+  #- DOMAIN-SUFFIX,bangbros.com
   - DOMAIN-SUFFIX,bcicdn.com
   - DOMAIN-SUFFIX,bcrncdn.com
   - DOMAIN-SUFFIX,beeg.com
@@ -312,7 +312,7 @@ payload:
   - DOMAIN-SUFFIX,ehgt.org
   - DOMAIN-SUFFIX,ehtracker.org
   - DOMAIN-SUFFIX,ehwiki.org
-  - DOMAIN-SUFFIX,eporner.com
+  #- DOMAIN-SUFFIX,eporner.com
   - DOMAIN-SUFFIX,exhentai.org
   - DOMAIN-SUFFIX,fanhaodian.com
   - DOMAIN-SUFFIX,findercdn.me
@@ -329,7 +329,7 @@ payload:
   - DOMAIN-SUFFIX,heydoga.com
   - DOMAIN-SUFFIX,heyzo.com
   - DOMAIN-SUFFIX,hpjav.tv
-  - DOMAIN-SUFFIX,hqporner.com
+  #- DOMAIN-SUFFIX,hqporner.com
   - DOMAIN-SUFFIX,hsxhr.cc
   - DOMAIN-SUFFIX,hxc10.vip
   - DOMAIN-SUFFIX,hxcsxs.pro
@@ -410,8 +410,8 @@ payload:
   - DOMAIN-SUFFIX,playno1.com
   - DOMAIN-SUFFIX,popjav.tv
   - DOMAIN-SUFFIX,pornbest.org
-  - DOMAIN-SUFFIX,pornhd.com
-  - DOMAIN-SUFFIX,pornhub.com
+  #- DOMAIN-SUFFIX,pornhd.com
+  #- DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,pornhubpremium.com
   - DOMAIN-SUFFIX,pornmd.com
   - DOMAIN-SUFFIX,pornstarbyface.com
@@ -443,7 +443,7 @@ payload:
   - DOMAIN-SUFFIX,thisav.com
   - DOMAIN-SUFFIX,thtmod1.com
   - DOMAIN-SUFFIX,tkb008.xyz
-  - DOMAIN-SUFFIX,tokyomotion.net
+  #- DOMAIN-SUFFIX,tokyomotion.net
   - DOMAIN-SUFFIX,torrentkitty.tv
   - DOMAIN-SUFFIX,tssp.best
   - DOMAIN-SUFFIX,tube8.com
@@ -483,8 +483,8 @@ payload:
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,xhcdn.com
-  - DOMAIN-SUFFIX,xnxx-cdn.com
-  - DOMAIN-SUFFIX,xnxx.com
+  #- DOMAIN-SUFFIX,xnxx-cdn.com
+  #- DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,xo104.com
   - DOMAIN-SUFFIX,xtube.com
   - DOMAIN-SUFFIX,xvideos-cdn.com
