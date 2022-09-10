@@ -9,10 +9,13 @@ payload:
   - IP-CIDR,172.217.194.188/16
   - IP-CIDR,142.250.4.188/16
 # Porn
+  - DOMAIN-SUFFIX,xhcdn.com
+  - DOMAIN-SUFFIX,xnxx-cdn.com
   - DOMAIN-SUFFIX,xnxx.com
+  - DOMAIN-SUFFIX,xo104.com
+  - DOMAIN-SUFFIX,xtube.com
+  - DOMAIN-SUFFIX,xvideos-cdn.com
   - DOMAIN-SUFFIX,xvideos.com
-  - DOMAIN-SUFFIX,xxxtik.com
-  - DOMAIN-SUFFIX,xhamster.com
 # Youtube
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
