@@ -482,13 +482,13 @@ payload:
   - DOMAIN-SUFFIX,x99av.com
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xhamsterlive.com
-  - DOMAIN-SUFFIX,xhcdn.com
+  #- DOMAIN-SUFFIX,xhcdn.com
   #- DOMAIN-SUFFIX,xnxx-cdn.com
   #- DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,xo104.com
   - DOMAIN-SUFFIX,xtube.com
-  - DOMAIN-SUFFIX,xvideos-cdn.com
-  - DOMAIN-SUFFIX,xvideos.com
+  #- DOMAIN-SUFFIX,xvideos-cdn.com
+  #- DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,yjcontentdelivery.com
   - DOMAIN-SUFFIX,youav.com
   - DOMAIN-SUFFIX,youjizz.com
