@@ -2,3 +2,5 @@ payload:
   # Hotstart
   - IP-CIDR,192.168.1.1/24
   - IP-CIDR,31.13.64.0/18
+  - IP-CIDR,185.60.216.0/24
+  - IP-CIDR,157.240.229.0/24
