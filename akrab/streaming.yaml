@@ -21,6 +21,8 @@ payload:
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,pornhubpremium.com
   - DOMAIN-SUFFIX,pornmd.com
+  - DOMAIN-SUFFIX,tokyomotion.net
+  
 # Youtube
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
