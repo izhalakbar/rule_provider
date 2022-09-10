@@ -409,11 +409,11 @@ payload:
   - DOMAIN-SUFFIX,pigav.com
   - DOMAIN-SUFFIX,playno1.com
   - DOMAIN-SUFFIX,popjav.tv
-  - DOMAIN-SUFFIX,pornbest.org
+  #- DOMAIN-SUFFIX,pornbest.org
   #- DOMAIN-SUFFIX,pornhd.com
   #- DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-SUFFIX,pornhubpremium.com
-  - DOMAIN-SUFFIX,pornmd.com
+  #- DOMAIN-SUFFIX,pornhubpremium.com
+  #- DOMAIN-SUFFIX,pornmd.com
   - DOMAIN-SUFFIX,pornstarbyface.com
   - DOMAIN-SUFFIX,porntea.com
   - DOMAIN-SUFFIX,press.vin
