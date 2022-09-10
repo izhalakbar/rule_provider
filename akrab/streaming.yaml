@@ -22,7 +22,7 @@ payload:
   - DOMAIN-SUFFIX,pornhubpremium.com
   - DOMAIN-SUFFIX,pornmd.com
   - DOMAIN-SUFFIX,tokyomotion.net
-  
+  - DOMAIN-SUFFIX,torrentkitty.tv
 # Youtube
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
