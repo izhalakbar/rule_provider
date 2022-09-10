@@ -444,7 +444,7 @@ payload:
   - DOMAIN-SUFFIX,thtmod1.com
   - DOMAIN-SUFFIX,tkb008.xyz
   #- DOMAIN-SUFFIX,tokyomotion.net
-  #- DOMAIN-SUFFIX,torrentkitty.tv
+  - DOMAIN-SUFFIX,torrentkitty.tv
   - DOMAIN-SUFFIX,tssp.best
   - DOMAIN-SUFFIX,tube8.com
   - DOMAIN-SUFFIX,tubetubetube.com
