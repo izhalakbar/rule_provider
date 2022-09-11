@@ -7,5 +7,5 @@ payload:
   - DOMAIN-SUFFIX,whatsapp.com
   - DOMAIN-SUFFIX,whatsapp.net
 # Hotstart
-  IP-CIDR,142.250.4.188/16
+  IP-CIDR,192.168.1.1/24
   
