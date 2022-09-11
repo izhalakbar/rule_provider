@@ -1,13 +1,11 @@
 payload:
-  # Hotstart
-  - DOMAIN-SUFFIX,xl.co.id
-  - DOMAIN-SUFFIX,my.xl.co.id
-  - DOMAIN-SUFFIX,prioritas.xl.co.id
-  # Whatsapp
+# Whatsapp
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,oculus.com
   - DOMAIN-SUFFIX,oculuscdn.com
   - DOMAIN-SUFFIX,rocksdb.org
   - DOMAIN-SUFFIX,whatsapp.com
   - DOMAIN-SUFFIX,whatsapp.net
+# Hotstart
+  IP-CIDR,142.250.4.188/16
   
