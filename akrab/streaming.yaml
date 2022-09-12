@@ -2,6 +2,7 @@ payload:
 # Google
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,googleusercontent.com
   - IP-CIDR,74.125.24.188/16
   - IP-CIDR,172.217.194.188/16
